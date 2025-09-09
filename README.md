@@ -11,18 +11,6 @@ This project implements a **classic Machine Learning pipeline** using `scikit-le
   4. Results visualization.
 - Interpret regression metrics: **MSE**, **RMSE**, and **R²**.
 
-## 📂 Project Structure
-
-proyecto_01_regresion_lineal_sintetica/
-├── src/
-│ ├── init.py
-│ └── pipeline.py # Main functions: load_data, build_pipeline, train_and_evaluate
-├── 01_pipeline_regresion.ipynb # Notebook for testing, visualization, and experiments
-├── requirements.txt
-├── .gitignore
-└── README.md
-
-
 ## ⚙️ Main Functions
 
 - **`load_data()`**  
@@ -50,3 +38,4 @@ In the notebook, you will find:
    ```bash
    git clone https://github.com/tu_usuario/proyecto_01_regresion_lineal_sintetica.git
    cd proyecto_01_regresion_lineal_sintetica
+
